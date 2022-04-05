@@ -1,2 +1,4 @@
-# EnergyStarPrediction
-EnergyStarPrediction
+# EnergyStarPrediction and Airines use case assignment
+The NYC Benchmarking Law requires owners of large buildings to annually measure their energy and water consumption in a process called benchmarking. The law standardizes this process by requiring building owners to enter their annual energy and water use in the U.S. Environmental Protection Agency's (EPA) online tool, Energy Star Portfolio Manager and use the tool to submit data. This data informs building owners about a building's energy and water consumption compared to similar buildings, and tracks progress year over year to help in energy efficiency planning
+
+An energy efficiency score is the Energy Star Rating that a building earns using the United States Environmental Protection Agency online benchmarking tool, Energy Star Portfolio Manager, to compare building energy performance to similar buildings in similar climates.
